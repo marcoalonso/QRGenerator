@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        imagenQR.image = generateQRCode(from: "Hacking with Swift is the best iOS coding tutorial I've ever read!")
+        imagenQR.image = generateQRCode(from: "https://github.com/marcoalonso?tab=repositories")
     }
 
     func generateQRCode(from string: String) -> UIImage? {
