@@ -1,7 +1,7 @@
 //
 //  ViewController.swift
 //  QRGenerator
-//
+// https://www.youtube.com/channel/UCknu6vH4a8tXLFpM_uQ-hBA/videos
 //  Created by marco rodriguez on 27/06/22.
 // Visita mi canal en YT Marco Alonso
 
